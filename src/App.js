@@ -245,6 +245,7 @@ function Fact({ fact }) {
         <button>👍 {fact.votesInteresting}</button>
         <button>🤯 {fact.votesMindblowing}</button>
         <button>⛔️ {fact.votesFalse}</button>
+        <button>Excellent</button>
       </div>
     </li>
   );
